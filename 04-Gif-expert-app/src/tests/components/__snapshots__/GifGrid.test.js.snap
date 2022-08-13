@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing GifGrid component should render properly 1`] = `
+<Fragment>
+  <h3>
+    Goku
+  </h3>
+  <p
+    className="animate__flash"
+  >
+    Loading
+  </p>
+  <div
+    className="gif-container"
+  />
+</Fragment>
+`;
+
+exports[`Testing GifGrid component should return items when loading is false by useFetchGifs 1`] = `
+<Fragment>
+  <h3>
+    Goku
+  </h3>
+  <div
+    className="gif-container"
+  >
+    <GifGridItem
+      id="ABC"
+      key="ABC"
+      title="Anything"
+      url="https://localhost/anything"
+    />
+  </div>
+</Fragment>
+`;

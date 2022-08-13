@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing GifGridItem with Enzyme and Jest should render the GifGridItem Component 1`] = `
+<div>
+  <img
+    alt="Testing Component"
+    className="gif-img animate__animated animate__bounce animate__fadeIn"
+    src="https:testing.com"
+  />
+  <p>
+     
+    Testing Component
+     
+  </p>
+</div>
+`;

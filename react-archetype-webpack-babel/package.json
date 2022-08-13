@@ -1,7 +1,7 @@
 {
-    "name": "solid-principles-react",
+    "name": "react-project-archetype-from-the-scratch",
     "version": "1.0.0",
-    "description": "SOLID principles applied into diferents React components",
+    "description": "Setting up a react project from the scratch using webpack & babel which were configured manually",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
